@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+ #!/bin/bash
 #XeroSploit Installer v1.0
 #Powered by Crazy Indian Developer
 #Created by Crazy Indian Developer
