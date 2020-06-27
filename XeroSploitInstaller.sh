@@ -2,7 +2,7 @@
 #XeroSploit Installer v1.0
 #Powered by Crazy Indian Developer
 #Created by Crazy Indian Developer
-#Credits goes to vijay-mahajan [github.com/CrazyIndianDeveloper]
+#Credits goes to CrazyIndianDeveloper [github.com/CrazyIndianDeveloper]
 
 printf "\n"
 
